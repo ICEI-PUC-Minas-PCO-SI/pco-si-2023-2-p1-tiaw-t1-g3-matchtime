@@ -44,15 +44,15 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 Inicialmente, o nosso público-alvo geral seriam aquelas pessoas consideradas gamers, mais especificamente os fãs de e-sports, porém apenas essa definição cria um grupo muito generalizado. De acordo com a Pesquisa Game Brasil, o perfil do público gamer é bem variado, consistido de pessoas de todos os gêneros, regiões, classes sociais, uma grande amplitude de idades (maior parte tendo entre 16 e 49 anos), sendo que quase 50% informou já ter praticado algum e-sport. Logo, deveriamos também avaliar o perfil do jogador além da definição social, econômica e demográfica.
 
-Nosso público principal seria aqueles jogadores que buscam melhoram suas próprias habilidades e preferem jogar em um ambiente mais competitivo, aqueles que gastam uma parte considerável de seu tempo livre jogado e treinando, tentando optimizar a própria gameplay, conhecidos popularmente como "tryhards". Estes buscam pessoas com habilidades e conhecimento sobre o jogo parecidos, com intenção de conseguir mais vitórias e conquistar melhores classificações.
-Como público secundário, temos os jogadores considerados "casuais", aqueles que se importam tanto com a vitória quanto os "tryhards" e que querem se divertir nos games sem precisar de se esforçar muito. Estes também buscam companheiros de equipe com a mesma mentalidade, sem se importar tanto com a qualidade da gameplay dos outros usuários.
-Um dos públicos que também podemos considerar são especificamente as mulheres e minorias que participam desse tipo de atividade, considerando que há relatos frequentes de que esses grupos sofrem preconceito e discriminação quando jogam.
+Nosso público principal seria aqueles jogadores que buscam melhoram suas próprias habilidades e preferem jogar em um ambiente mais competitivo, aqueles que gastam uma parte considerável de seu tempo livre jogado e treinando, tentando optimizar a própria gameplay, conhecidos popularmente como "tryhards". Estes buscam pessoas com habilidades e conhecimento sobre o jogo parecidos, com intenção de conseguir mais vitórias e conquistar melhores classificações.      
+Como público secundário, temos os jogadores considerados "casuais", aqueles que se importam tanto com a vitória quanto os "tryhards" e que querem se divertir nos games sem precisar de se esforçar muito. Estes também buscam companheiros de equipe com a mesma mentalidade, sem se importar tanto com a qualidade da gameplay dos outros usuários.      
+Um dos públicos que também podemos considerar são especificamente as mulheres e minorias que participam desse tipo de atividade, considerando que há relatos frequentes de que esses grupos sofrem preconceito e discriminação quando jogam.      
 
 
 
-Fontes:
-https://www.pesquisagamebrasil.com.br/
-https://www.folhavitoria.com.br/games/noticia/07/2023/esports-no-brasil-continua-em-ascensao-aponta-pgb-2023
+Fontes:      
+https://www.pesquisagamebrasil.com.br/       
+https://www.folhavitoria.com.br/games/noticia/07/2023/esports-no-brasil-continua-em-ascensao-aponta-pgb-2023      
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
