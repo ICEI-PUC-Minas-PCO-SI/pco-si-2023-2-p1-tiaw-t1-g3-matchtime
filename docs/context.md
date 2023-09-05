@@ -43,9 +43,9 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 ## Público-Alvo
 
 
-O público-alvo geral do projeto seria aquelas pessoas consideradas gamers e de fãs de e-sports, que são pessoas que jogam jogos digitais online e altamente competitivos. Por se tratar de um publico socialmente e demograficamente amplo, deve-se levar em consideração o perfil do jogadores para definição do cliente em potêncial.
+O público-alvo geral do projeto seria aquelas pessoas consideradas gamers e de fãs de e-sports, que são pessoas que jogam jogos digitais online e altamente competitivos. Por se tratar de um público socialmente e demograficamente amplo, deve-se levar em consideração o perfil do jogadores para definição do cliente em potêncial.
 
-Alguns dos perfis com interesse em potencial são: 
+Alguns dos grupos possivelmente interessados são: 
 
  - Jogadores de alto nível que buscam pessoas com níveis de habilidade próximos, devido a insatisfações geradas pela dependência do sistema de pareamento dos próprios jogos;
  - Jogadores de todos os níveis, especialmente novatos ou casuais, que desejam jogar em equipe sem correr o risco de serem vítimas da toxicidade criada pelo ambiente naturalmente competitivo dos e-sports;
