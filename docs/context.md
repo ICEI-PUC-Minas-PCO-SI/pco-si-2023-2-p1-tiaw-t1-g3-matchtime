@@ -47,10 +47,10 @@ O público-alvo geral do projeto seria aquelas pessoas consideradas gamers e de 
 
 Alguns dos perfis com interesse em potencial são: 
 
-1- Jogadores de alto nível que buscam pessoas com níveis de habilidade próximos, devido a insatisfações geradas pela dependência do sistema de pareamento dos próprios jogos;
-2- Jogadores de todos os níveis, especialmente novatos ou casuais, que desejam jogar em equipe sem correr o risco de serem vítimas da toxicidade criada pelo ambiente naturalmente competitivo dos e-sports;
-3- Mulheres e minorias que se sentem ameaçadas ao jogar e usar os sistemas de comunicação implementados nos jogos com medo de serem vítimas de preconceito e discriminação;
-4- Pais que desejam um ambiente mais controlado para seus filhos jogarem com pessoas de faixas etárias mais próximas;
+ - Jogadores de alto nível que buscam pessoas com níveis de habilidade próximos, devido a insatisfações geradas pela dependência do sistema de pareamento dos próprios jogos;
+ - Jogadores de todos os níveis, especialmente novatos ou casuais, que desejam jogar em equipe sem correr o risco de serem vítimas da toxicidade criada pelo ambiente naturalmente competitivo dos e-sports;
+ - Mulheres e minorias que se sentem ameaçadas ao jogar e usar os sistemas de comunicação implementados nos jogos com medo de serem vítimas de preconceito e discriminação;
+ - Pais que desejam um ambiente mais controlado para seus filhos jogarem com pessoas de faixas etárias mais próximas;
 
 
 > **Links Úteis**:
