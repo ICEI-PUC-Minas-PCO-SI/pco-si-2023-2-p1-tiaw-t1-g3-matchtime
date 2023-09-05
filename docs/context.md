@@ -42,7 +42,19 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Inicialmente, o nosso público-alvo geral seriam aquelas pessoas consideradas gamers, mais especificamente os fãs de e-sports, porém apenas essa definição cria um grupo muito generalizado. De acordo com a Pesquisa Game Brasil, o perfil do público gamer é bem variado, consistido de pessoas de todos os gêneros, regiões, classes sociais, uma grande amplitude de idades (maior parte tendo entre 16 e 49 anos), sendo que quase 50% informou já ter praticado algum e-sport. Logo, deveriamos também avaliar o perfil do jogador além da definição social, econômica e demográfica.
+
+O público-alvo geral do projeto seria aquelas pessoas consideradas gamers e de fãs de e-sports, que são pessoas que jogam jogos digitais online e altamente competitivos. Por se tratar de um publico socialmente e demograficamente amplo, deve-se levar em consideração o perfil do jogadores para definição do cliente em potêncial.
+
+Alguns dos perfis com interesse em potencial são: 
+
+1- Jogadores de alto nível que buscam pessoas com níveis de habilidade próximos, devido a insatisfações geradas pela dependência do sistema de pareamento dos próprios jogos;
+2- Jogadores de todos os níveis, especialmente novatos ou casuais, que desejam jogar em equipe sem correr o risco de serem vítimas da toxicidade criada pelo ambiente naturalmente competitivo dos e-sports;
+3- Mulheres e minorias que se sentem ameaçadas ao jogar e usar os sistemas de comunicação implementados nos jogos com medo de serem vítimas de preconceito e discriminação;
+4- Pais que desejam um ambiente mais controlado para seus filhos jogarem com pessoas de faixas etárias mais próximas;
+
+
+
+
 
 Nosso público principal seria aqueles jogadores que buscam melhoram suas próprias habilidades e preferem jogar em um ambiente mais competitivo, aqueles que gastam uma parte considerável de seu tempo livre jogado e treinando, tentando optimizar a própria gameplay, conhecidos popularmente como "tryhards". Estes buscam pessoas com habilidades e conhecimento sobre o jogo parecidos, com intenção de conseguir mais vitórias e conquistar melhores classificações.      
 Como público secundário, temos os jogadores considerados "casuais", aqueles que se importam tanto com a vitória quanto os "tryhards" e que querem se divertir nos games sem precisar de se esforçar muito. Estes também buscam companheiros de equipe com a mesma mentalidade, sem se importar tanto com a qualidade da gameplay dos outros usuários.      
