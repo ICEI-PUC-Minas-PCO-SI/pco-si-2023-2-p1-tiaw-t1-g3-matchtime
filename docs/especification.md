@@ -47,17 +47,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Os gerentes de eventos devem poder criar eventos personalizados na plataforma. Isso é fundamental para permitir que os eventos sejam organizados. | ALTA | Italo Ritchello |
-|RF-002| Os gerentes de eventos devem ser capazes de definir detalhes do evento, incluindo nome, data, hora, descrição e regras específicas. Isso é essencial para comunicar as informações básicas do evento aos participantes.   | ALTA |Pedro Matta |
-|RF-003| Deve ser possível configurar as opções de adesão ao evento, decidindo se ele será aberto a todos ou apenas para membros selecionados. Isso é crítico para controlar quem pode participar. | ALTA | Italo Ritchello |
-|RF-004| Os gerentes de eventos devem ter a capacidade de adicionar informações extras, como prêmios, categorias ou recompensas, para tornar o evento mais atraente. Isso melhora a atratividade do evento, mas pode ser implementado após os requisitos essenciais. | MEDIA | Pedro Matta |
-|RF-005| Deve ser fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes. Isso é importante, mas pode ser tratado após a implementação dos recursos essenciais. | BAIXO | Italo Ritchello |
-|RF-006| Cada usuário deve poder ter um perfil personalizável para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Pedro Matta |
-|RF-007| Implementar um sistema de classificação para avaliar a habilidade dos jogadores com base em seu desempenho nas partidas. | ALTA | Italo Ritchello |
-|RF-008| Os jogadores devem poder participar de partidas competitivas, casuais e personalizadas, onde são agrupados com base em classificações e histórico de desempenho. | BAIXO | Pedro Matta |
-|RF-009|Incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores. Isso pode ser desenvolvido após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |
-|RF-010| Implementar um sistema de convites que permite que os jogadores convidem amigos para partidas, grupos ou eventos. | MEDIA | Pedro Matta |
-|RF-011| A plataforma deve disponibilizar uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. |MEDIA| João Pedro |
+|RF-001| Os Desenvolvedores poderam criar eventos específicos para o site. Entrando em uma sala especifica somente para o evento. | ALTA | Gabriel Lucas |
+|RF-002| Deve ser possível configurar as opções de adesão ao evento, decidindo se ele será aberto a todos ou apenas para membros selecionados. Isso é crítico para controlar quem pode participar. | ALTA | Italo Ritchello |
+|RF-003| Os gerentes de eventos devem ter a capacidade de adicionar informações extras, como prêmios, categorias ou recompensas, para tornar o evento mais atraente. Isso melhora a atratividade do evento, mas pode ser implementado após os requisitos essenciais. | MEDIA | Pedro Matta |
+|RF-004| Deve ser fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes. Isso é importante, mas pode ser tratado após a implementação dos recursos essenciais. | BAIXO | Italo Ritchello |
+|RF-005| Cada usuário deve poder ter um perfil personalizável para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | 
+Victor Takahashi |
+|RF-006| Implementar um sistema de classificação para avaliar a habilidade dos jogadores com base em seu desempenho nas partidas. | ALTA | Italo Ritchello |
+|RF-007| Os jogadores devem poder participar de partidas competitivas, casuais e personalizadas, onde são agrupados com base em classificações e histórico de desempenho. | BAIXO | Italo Ritchello |
+|RF-008|Incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores. Isso pode ser desenvolvido após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |
+|RF-09| Implementar um sistema de convites que permite que os jogadores convidem amigos para partidas, grupos ou eventos. | MEDIA | Pedro Matta |
+|RF-010| A plataforma deve disponibilizar uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. |MEDIA| Gabriel Lucas |
 
 
 

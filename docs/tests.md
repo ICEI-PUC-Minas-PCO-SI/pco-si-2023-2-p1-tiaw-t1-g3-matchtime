@@ -45,15 +45,32 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*TC-01 - Sala De Lobby*                                         |
+|*Caso de Teste*                                 |*TC-01 - Eventos*                                         |
 |---|---|
-|Requisito Associado | RF-009 - Usuários pode se comunicar pelo chat |
+|Requisito Associado | RF-001 - Eventos Disponíveis para os Usuarios. |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1K-C0pJrIxkzFRgLYV253hVsBN9gayNZK/view?usp=drive_link |
+
+|*Caso de Teste*                                 |*TC-02 - Usuarios*                                         |
+|---|---|
+|Requisito Associado | RF-005 - Registrar Usuário e fazer o login do novo usuário. |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1XhLJqyYSPc4fosH5j25n1VW0gYaLz-Pw/view?usp=drive_link | 
+|Requisito Associado | RF-005 - Fazer Login do usuário já registrado. |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1eujiVRZSNUXFhbmJlRoXi7KAjxYp6dre/view?usp=drive_link | 
+
+|*Caso de Teste*                                 |*TC-03 - Sala de Jogos*                                         |
+|---|---|
+|Requisito Associado | RF-007 - Usuários pode escolher qual sala ele vai entrar e sobre qual jogo.|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1By1BCWNo_-_koQo8uD3UY_Mo1gNvJwut/view?usp=drive_link | 
+
+|*Caso de Teste*                                 |*TC-04 - Sala De Lobby*                                         |
+|---|---|
+|Requisito Associado | RF-008 - Usuários pode se comunicar pelo chat |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1SUAi0m_Egk7nzbhiUDPrhDdLGylzpGXC/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*TC-02 - Sala de Jogos*                                         |
+|*Caso de Teste*                                 |*TC-05 - Sala de Denúncias*                                         |
 |---|---|
-|Requisito Associado | RF-008 - Usuários pode escolher qual sala ele vai entrar e sobre qual jogo.|
-|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1By1BCWNo_-_koQo8uD3UY_Mo1gNvJwut/view?usp=drive_link | 
+|Requisito Associado | RF-010 - Usuários pode escolher qual sala ele vai entrar e sobre qual jogo.|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/13eGGE9hQCjc2ILOdYobr37qHW18q9AA-/view?usp=drive_link | 
 
 
 ## Avaliação dos Testes de Software
