@@ -47,7 +47,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-01 - Eventos*                                         |
 |---|---|
-|Requisito Associado | RF-001 - Eventos Disponíveis para os Usuarios. |
+|Requisito Associado | RF-001 - Eventos Disponíveis para os Usuários. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1K-C0pJrIxkzFRgLYV253hVsBN9gayNZK/view?usp=drive_link |
 
 |*Caso de Teste*                                 |*TC-02 - Usuarios*                                         |
@@ -59,17 +59,17 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*TC-03 - Sala de Jogos*                                         |
 |---|---|
-|Requisito Associado | RF-007 - Usuários pode escolher qual sala ele vai entrar e sobre qual jogo.|
+|Requisito Associado | RF-007 - Usuários podem escolher qual sala vão entrar de acordo com o jogo.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1By1BCWNo_-_koQo8uD3UY_Mo1gNvJwut/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*TC-04 - Sala De Lobby*                                         |
 |---|---|
-|Requisito Associado | RF-008 - Usuários pode se comunicar pelo chat |
+|Requisito Associado | RF-008 - Usuários podem se comunicar pelo chat |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1SUAi0m_Egk7nzbhiUDPrhDdLGylzpGXC/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*TC-05 - Sala de Denúncias*                                         |
 |---|---|
-|Requisito Associado | RF-010 - Usuários pode escolher qual sala ele vai entrar e sobre qual jogo.|
+|Requisito Associado | RF-010 - Usuários podem reportar outros de acordo com as diretrizes da comunidade.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/13eGGE9hQCjc2ILOdYobr37qHW18q9AA-/view?usp=drive_link | 
 
 
