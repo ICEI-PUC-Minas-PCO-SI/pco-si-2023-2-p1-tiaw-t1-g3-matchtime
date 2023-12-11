@@ -1,10 +1,10 @@
-**Pedro Fernando Durães Emerick Porto**: 
+**Pedro Fernando Durães Emerick Porto**: Não participou dessa etapa ASS.Gabriel Lucas
 
-**João Pedro de Freitas Marçal**:
+**João Pedro de Freitas Marçal**: Não participou dessa etapa ASS.Gabriel Lucas
 
 **Victor Kenzo Sousa Takahashi**:
 
-**Pedro Henrique Silva Matta**: 
+**Pedro Henrique Silva Matta**: Não participou dessa etapa ASS.Gabriel Lucas
 
 **Italo Ritchello Batista Carneiro**: 
 
