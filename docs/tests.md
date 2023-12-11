@@ -90,7 +90,6 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado | RF-005 - Registrar Usuário e fazer o login do novo usuário. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1XhLJqyYSPc4fosH5j25n1VW0gYaLz-Pw/view?usp=drive_link | 
-
 |Requisito Associado | RF-005 - Fazer Login do usuário já registrado. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1eujiVRZSNUXFhbmJlRoXi7KAjxYp6dre/view?usp=drive_link | 
 
