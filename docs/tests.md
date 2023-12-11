@@ -41,6 +41,30 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | A escolha do usuário
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT03 - Tela de login/cadastro**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário deseja criar uma conta nova <br>2) O usuário deseja logar em uma conta já existente.
+**Requisitos associados** | RF-000
+**Resultado esperado** | Login com sucesso dado email e senha, criação no banco de dados com as informações dadas na tela de cadastro.
+**Dados de entrada** | A escolha do usuário.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Tela de perfil**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário deseja visualizar seu perfil
+**Requisitos associados** | RF-000
+**Resultado esperado** | Usuário consegue acessar sua tela de perfil em qualquer tela do site e ver suas informações em display.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT05 - Tela de edição de perfil**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário deseja mudar suas informações de perfil.
+**Requisitos associados** | RF-000
+**Resultado esperado** | Usuário consegue acessar sua tela de edição de perfil em qualquer tela do site e mudar suas informações.
+**Dados de entrada** | Nome do usuário, link para imagem, bio, jogos favoritos (checklist).
+**Resultado obtido** | Erro.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
