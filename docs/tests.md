@@ -54,6 +54,8 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado | RF-005 - Registrar Usuário e fazer o login do novo usuário. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1XhLJqyYSPc4fosH5j25n1VW0gYaLz-Pw/view?usp=drive_link | 
+|Requisito Associado | RF-005 - Editar perfil usuário. |
+|Link do vídeo do teste realizado: |  | 
 |Requisito Associado | RF-005 - Fazer Login do usuário já registrado. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1eujiVRZSNUXFhbmJlRoXi7KAjxYp6dre/view?usp=drive_link | 
 
@@ -70,7 +72,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*TC-05 - Sala de Denúncias*                                         |
 |---|---|
 |Requisito Associado | RF-010 - Usuários podem reportar outros de acordo com as diretrizes da comunidade.|
-|Link do vídeo do teste realizado: | https://drive.google.com/file/d/13eGGE9hQCjc2ILOdYobr37qHW18q9AA-/view?usp=drive_link | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1Li6P4XWrefTPHNgcBf3idJTvm0uG6JfX/view?usp=drive_link | 
 
 
 ## Avaliação dos Testes de Software
