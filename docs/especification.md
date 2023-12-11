@@ -51,8 +51,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Deve ser possível configurar as opções de adesão ao evento, decidindo se ele será aberto a todos ou apenas para membros selecionados. Isso é crítico para controlar quem pode participar. | ALTA | Italo Ritchello |
 |RF-003| Os gerentes de eventos devem ter a capacidade de adicionar informações extras, como prêmios, categorias ou recompensas, para tornar o evento mais atraente. Isso melhora a atratividade do evento, mas pode ser implementado após os requisitos essenciais. | MEDIA | Pedro Matta |
 |RF-004| Deve ser fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes. Isso é importante, mas pode ser tratado após a implementação dos recursos essenciais. | BAIXO | Italo Ritchello |
-|RF-005| Cada usuário deve poder ter um perfil personalizável para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | 
-Victor Takahashi |
+|RF-005| Cada usuário deve poder ter um perfil personalizável para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Victor Takahashi |
 |RF-006| Implementar um sistema de classificação para avaliar a habilidade dos jogadores com base em seu desempenho nas partidas. | ALTA | Italo Ritchello |
 |RF-007| Os jogadores devem poder participar de partidas competitivas, casuais e personalizadas, onde são agrupados com base em classificações e histórico de desempenho. | BAIXO | Italo Ritchello |
 |RF-008|Incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores. Isso pode ser desenvolvido após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |

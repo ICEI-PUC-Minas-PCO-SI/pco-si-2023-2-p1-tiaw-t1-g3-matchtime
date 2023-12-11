@@ -25,63 +25,79 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Sala De Lobby**
- :--------------: | ------------
-**Procedimento**  | 1) O usuário entrou na sala que deseja.<br>2)A aplicação permite que o usuário converse no chat e escolha um time.
-**Requisitos associados** | RF-009
-**Resultado esperado** | Dialogo pelo chat, e adição de usuario ao time direcionado.
-**Dados de entrada** | A escolha do usuário.
-**Resultado obtido** | Sucesso.
-
-**Caso de Teste** | **CT02 - Sala de Jogos**
- :--------------: | ------------
-**Procedimento**  | 1) Usuário escolhe qual sala e qual jogo deseja entrar<br>
-**Requisitos associados** | RF-008
-**Resultado esperado** | Redirecionamento para a sala de lobby
-**Dados de entrada** | A escolha do usuário
-**Resultado obtido** | Sucesso.
-
-**Caso de Teste** | **CT03 - Tela de login/cadastro**
+**Caso de Teste** | **CT01 - Tela de login/cadastro**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário deseja criar uma conta nova <br>2) O usuário deseja logar em uma conta já existente.
-**Requisitos associados** | RF-000
+**Requisitos associados** | RF-005
 **Resultado esperado** | Login com sucesso dado email e senha, criação no banco de dados com as informações dadas na tela de cadastro.
 **Dados de entrada** | A escolha do usuário.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT04 - Tela de perfil**
+**Caso de Teste** | **CT01 - Tela de perfil**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário deseja visualizar seu perfil
-**Requisitos associados** | RF-000
+**Requisitos associados** | RF-005
 **Resultado esperado** | Usuário consegue acessar sua tela de perfil em qualquer tela do site e ver suas informações em display.
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT05 - Tela de edição de perfil**
+**Caso de Teste** | **CT02 - Tela de edição de perfil**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário deseja mudar suas informações de perfil.
-**Requisitos associados** | RF-000
+**Requisitos associados** | RF-005
 **Resultado esperado** | Usuário consegue acessar sua tela de edição de perfil em qualquer tela do site e mudar suas informações.
 **Dados de entrada** | Nome do usuário, link para imagem, bio, jogos favoritos (checklist).
 **Resultado obtido** | Erro.
+
+**Caso de Teste** | **CT03 - Sala de Jogos**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário escolhe qual sala e qual jogo deseja entrar<br>
+**Requisitos associados** | RF-007
+**Resultado esperado** | Redirecionamento para a sala de lobby
+**Dados de entrada** | A escolha do usuário
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Sala De Lobby**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário entrou na sala que deseja.<br>2)A aplicação permite que o usuário converse no chat e escolha um time.
+**Requisitos associados** | RF-008
+**Resultado esperado** | Dialogo pelo chat e adição de usuario ao time direcionado.
+**Dados de entrada** | A escolha do usuário.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT05 - Sala de Denúncias**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário escolhe um player para denunciar. <br>2)Seleciona quais opções descrevem mais o que ele presenciou e preenche o formulário <br>3) A aplicação retorna um email para a equipe e para o usuário.
+**Requisitos associados** | RF-0010
+**Resultado esperado** | Email de retorno para o usuário e para equipe matchtime.
+**Dados de entrada** | Nome, Email, Seleção de checkbox e descrição do ocorrido.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT06 - Eventos**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário encontra qual evento mais lhe agrada<br>2)O usuário é direcionado a sala de evento.<br>3)O usuário pode conversar e escolher seu time dentro do evento.
+**Requisitos associados** | RF-001
+**Resultado esperado** | Redirecionamento para o evento referente a escolha, dialogo pelo chat e adição de usuario ao time direcionado.
+**Dados de entrada** | A escolha do evento.
+**Resultado obtido** | Sucesso.
 
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*TC-01 - Eventos*                                         |
-|---|---|
-|Requisito Associado | RF-001 - Eventos Disponíveis para os Usuários. |
-|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1K-C0pJrIxkzFRgLYV253hVsBN9gayNZK/view?usp=drive_link |
 
-|*Caso de Teste*                                 |*TC-02 - Usuarios*                                         |
+|*Caso de Teste*                                 |*TC-01 - Usuarios*                                         |
 |---|---|
 |Requisito Associado | RF-005 - Registrar Usuário e fazer o login do novo usuário. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1XhLJqyYSPc4fosH5j25n1VW0gYaLz-Pw/view?usp=drive_link | 
-|Requisito Associado | RF-005 - Editar perfil usuário. |
-|Link do vídeo do teste realizado: |  | 
+
 |Requisito Associado | RF-005 - Fazer Login do usuário já registrado. |
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1eujiVRZSNUXFhbmJlRoXi7KAjxYp6dre/view?usp=drive_link | 
+
+|*Caso de Teste*                                 |*TC-02 -Tela de edição*                                         |
+|---|---|
+|Requisito Associado | RF-005 - Editar perfil usuário. |
+|Link do vídeo do teste realizado: |  https://drive.google.com/file/d/1ilpuP0XcPek5XRgxwnQF1TglieEOEALn/view | 
 
 |*Caso de Teste*                                 |*TC-03 - Sala de Jogos*                                         |
 |---|---|
@@ -97,6 +113,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado | RF-010 - Usuários podem reportar outros de acordo com as diretrizes da comunidade.|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1Li6P4XWrefTPHNgcBf3idJTvm0uG6JfX/view?usp=drive_link | 
+
+|*Caso de Teste*                                 |*TC-06 - Eventos*                                         |
+|---|---|
+|Requisito Associado | RF-001 - Eventos Disponíveis para os Usuários. |
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1K-C0pJrIxkzFRgLYV253hVsBN9gayNZK/view?usp=drive_link |
 
 
 ## Avaliação dos Testes de Software
