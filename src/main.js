@@ -133,7 +133,7 @@ const renderEditProfile = async () => {
 //funcao deslogar quando aperta o botao "sair" enquanto logado
 const deslogar = async () => {
     localStorage.setItem("idUsuarioLogado", "-1");
-    window.location.replace('/index.html');
+    window.location.replace('index.html');
 }
 
 //chama funcoes sempre que pagina carrega
@@ -165,7 +165,7 @@ const validateUser = async (userEmail, userPassword) => {
 
     if (emailExist && profiles[idUserFound].senha == userPassword) {
         localStorage.setItem("idUsuarioLogado", idUserFound);
-        window.location.replace('/index.html');
+        window.location.replace('index.html');
     } else {
         alert("Dados incorretos.");
     }
@@ -202,7 +202,7 @@ const registerUser = async (userName, userEmail, userPassword) => {
     })
 
     alert("Usuário sendo criado com sucesso! Aguarde alguns instantes para fazer login.");
-    window.location.replace('/index.html');
+    window.location.replace('index.html');
 }
 
 //funcao pegar informacoes do login e chama funcao para validar usuario
@@ -297,7 +297,7 @@ const editAll = async (userName, userPfp, userBio, userFavoriteGames) => {
         headers: { 'Content-Type': 'application/json' }
     })
 
-    window.location.replace('/Gprofile.html');
+    window.location.replace('Gprofile.html');
 }
 
 
