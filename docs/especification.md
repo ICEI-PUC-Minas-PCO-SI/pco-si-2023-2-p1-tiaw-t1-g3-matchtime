@@ -47,22 +47,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001|É fundamental que os gerentes de eventos possam criar eventos personalizados na plataforma. | ALTA | Victor Takahashi |
-|RF-002| É essencial que os gerentes de eventos possam especificar detalhes do evento, como nome, data, hora, descrição e regras específicas, para comunicar informações básicas aos participantes. | ALTA | Victor Takahashi |
-|RF-003| A possibilidade de configurar as opções de adesão ao evento, decidindo se será aberto a todos ou apenas para membros selecionados, é crucial para controlar a participação de forma adequada. | ALTA | Victor Takahashi |
-|RF-004| É importante que os gerentes de eventos possam adicionar informações extras, como prêmios, categorias ou recompensas, para aumentar a atratividade do evento, mesmo que isso seja implementado após os requisitos essenciais. | MEDIA | Victor Takahashi |
-|RF-005| É fundamental que seja fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes, mesmo que essa funcionalidade seja tratada após a implementação dos recursos essenciais. | BAIXO | Victor Takahashi |
-|RF-006| Cada usuário deve ter a capacidade de personalizar seu perfil para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Pedro Fernando |
-|RF-007| É crucial implementar um sistema de classificação para avaliar a habilidade dos jogadores com base no desempenho nas partidas. | BAIXA | Italo Ritchello |
-|RF-008| Os jogadores devem ter a possibilidade de participar de partidas competitivas, casuais e personalizadas, sendo agrupados conforme suas classificações e histórico de desempenho. | ALTA | Italo Ritchello |
-|RF-009| É fundamental incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores, mesmo que seja desenvolvido após a implementação dos recursos essenciais. | MEDIA | Gabriel Lucas |
-|RF-010| É crucial implementar um sistema de convites que permita aos jogadores convidar amigos para partidas, grupos ou eventos. | BAIXA | Gabriel Lucas |
-|RF-011| A plataforma deve oferecer uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. | MEDIA | Victor Takahashi |
-|RF-012| É fundamental a necessidade de um sistema de login para cada usuário. | ALTA | Pedro Henrique |   
-|RF-013| É crucial a necessidade de um sistema de cadastro para cada usuário. | ALTA | Pedro Henrique | 
-|RF-014| É importante existir um sistema de comunidades para os jogadores se conectarem dentro e fora do jogo. | ALTA | Italo Ritchello |
-|RF-015| Deve apresentar um catálogo incluindo todos os jogos da plataforma, para o usúario ter a opção de escolha | ALTA | Gabriel Lucas |
-
+|RF-001| Os Desenvolvedores poderam criar eventos específicos para o site. Entrando em uma sala especifica somente para o evento. | ALTA | Gabriel Lucas |
+|RF-002| Deve ser possível configurar as opções de adesão ao evento, decidindo se ele será aberto a todos ou apenas para membros selecionados. Isso é crítico para controlar quem pode participar. | ALTA | Italo Ritchello |
+|RF-003| Os gerentes de eventos devem ter a capacidade de adicionar informações extras, como prêmios, categorias ou recompensas, para tornar o evento mais atraente. Isso melhora a atratividade do evento, mas pode ser implementado após os requisitos essenciais. | MEDIA | Pedro Matta |
+|RF-004| Deve ser fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes. Isso é importante, mas pode ser tratado após a implementação dos recursos essenciais. | BAIXO | Italo Ritchello |
+|RF-005| Cada usuário deve poder ter um perfil personalizável para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Victor Takahashi |
+|RF-006| Implementar um sistema de classificação para avaliar a habilidade dos jogadores com base em seu desempenho nas partidas. | ALTA | Italo Ritchello |
+|RF-007| Os jogadores devem poder participar de partidas competitivas, casuais e personalizadas, onde são agrupados com base em classificações e histórico de desempenho. | BAIXO | Italo Ritchello |
+|RF-008|Incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores. Isso pode ser desenvolvido após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |
+|RF-09| Implementar um sistema de convites que permite que os jogadores convidem amigos para partidas, grupos ou eventos. | MEDIA | Pedro Matta |
+|RF-010| A plataforma deve disponibilizar uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. |MEDIA| Gabriel Lucas |
 
 
 
