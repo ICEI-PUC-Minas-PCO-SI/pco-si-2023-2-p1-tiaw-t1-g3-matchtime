@@ -60,9 +60,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 
-
-  
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
