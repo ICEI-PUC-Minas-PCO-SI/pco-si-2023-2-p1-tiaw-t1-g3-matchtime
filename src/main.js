@@ -169,8 +169,6 @@ const validateUser = async (userEmail, userPassword) => {
     } else {
         alert("Dados incorretos.");
     }
-
-
 }
 
 
@@ -205,39 +203,61 @@ const registerUser = async (userName, userEmail, userPassword) => {
     window.location.replace('index.html');
 }
 
-//funcao pegar informacoes do login e chama funcao para validar usuario
+
+//login
 const formLogin = document.querySelector("#userLogin");
+
 if (formLogin) {
     const fields = ["inputEmail", "inputPassword"];
+
+    const emailInput = document.querySelector(`#${fields[0]}`);
+    const passwordInput = document.querySelector(`#${fields[1]}`);
 
     formLogin.addEventListener("submit", (e) => {
         e.preventDefault();
 
-        let userEmail = document.querySelector(`#${fields[0]}`).value;
-        let userPassword = document.querySelector(`#${fields[1]}`).value;
+        let userEmail = emailInput.value;
+        let userPassword = passwordInput.value;
 
         if (userEmail == false || userPassword == false) {
             alert("Gentileza preencher todos os campos");
         } else {
-            //console.log(userEmail);
-            //console.log(userPassword);
-
             validateUser(userEmail, userPassword);
-
         }
+    });
 
+    // Adiciona um ouvinte de evento de input para o campo de e-mail
+    emailInput.addEventListener("input", () => {
+        const emailValue = emailInput.value;
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+        // Verifica se o e-mail atende aos requisitos
+        if (!emailRegex.test(emailValue)) {
+            // Exibe uma mensagem de e-mail inválido
+            document.getElementById("emailValidationMessage").innerText = "E-mail inválido";
+        } else {
+            // Limpa a mensagem se o e-mail for válido
+            document.getElementById("emailValidationMessage").innerText = "";
+        }
     });
 }
+//fim do login
 
+
+//register
 const formRegister = document.querySelector("#userRegister");
+
 if (formRegister) {
     const fields = ["inputNameRegister", "inputEmailRegister", "inputPasswordRegister", "inputPasswordConfirmationRegister"];
+
+    const emailInput = document.querySelector(`#${fields[1]}`);
+    const emailValidationMessage = document.getElementById("emailValidationMessage");
 
     formRegister.addEventListener("submit", (e) => {
         e.preventDefault();
 
         let userName = document.querySelector(`#${fields[0]}`).value;
-        let userEmail = document.querySelector(`#${fields[1]}`).value;
+        let userEmail = emailInput.value;
         let userPassword = document.querySelector(`#${fields[2]}`).value;
         let userPasswordConfirmation = document.querySelector(`#${fields[3]}`).value;
 
@@ -248,13 +268,28 @@ if (formRegister) {
         } else {
             if (userPassword != userPasswordConfirmation) {
                 alert("As senhas não coincidem, gentileza tentar novamente.");
-            } else {               
+            } else {
                 registerUser(userName, userEmail, userPassword);
             }
         }
     });
-}
 
+    // Adiciona um ouvinte de evento de input para o campo de e-mail
+    emailInput.addEventListener("input", () => {
+        const emailValue = emailInput.value;
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+        // Verifica se o e-mail atende aos requisitos
+        if (!emailRegex.test(emailValue)) {
+            // Exibe uma mensagem de e-mail inválido
+            emailValidationMessage.innerText = "E-mail inválido";
+        } else {
+            // Limpa a mensagem se o e-mail for válido
+            emailValidationMessage.innerText = "";
+        }
+    });
+}
+//fim register
 
 
 const editAll = async (userName, userPfp, userBio, userFavoriteGames) => {
@@ -267,16 +302,16 @@ const editAll = async (userName, userPfp, userBio, userFavoriteGames) => {
     var newUserFavoriteGames = userFavoriteGames;
 
     //checa quais estão vazios para manter
-    if(userName == "0" || userName == null){
+    if (userName == "0" || userName == null) {
         newName = profiles[idUsuarioLogado].nome;
     }
-    if(newPfp == "0" || newPfp == null){
+    if (newPfp == "0" || newPfp == null) {
         newPfp = profiles[idUsuarioLogado].foto;
     }
-    if(newBio == "0" || newBio == null){
+    if (newBio == "0" || newBio == null) {
         newBio = profiles[idUsuarioLogado].bio;
     }
-    if(newUserFavoriteGames == [] || newUserFavoriteGames == null){
+    if (newUserFavoriteGames == [] || newUserFavoriteGames == null) {
         newUserFavoriteGames = profiles[idUsuarioLogado].nome;
     }
 
@@ -313,7 +348,7 @@ const getCheckedItems = async () => {
 
     checkboxes.forEach((checkbox) => {
         if (checkbox.checked) {
-          checkedItems.push(checkbox.value);
+            checkedItems.push(checkbox.value);
         }
     });
 
