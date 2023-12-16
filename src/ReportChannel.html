@@ -8,7 +8,11 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <link rel="stylesheet" href="style-rc.css">
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <script src="reportChannel.js"defer></script>
+    <script src="main.js"defer></script>
 
 
     <!--SMTP CDN-->
@@ -112,6 +116,7 @@
                     <div class="d-flex" role="search">
                         <input id="denunciado" class="form-control me-2 mt-3 " style="height:30px;width:100%;"
                             type="text" placeholder="Digite o Nick do Usuário a Denunciar" aria-label="Search">
+                            <p id="mensagemDenunciado"></p>
 
                     </div>
 
@@ -120,9 +125,12 @@
                         0 0 0.2em rgb(18, 114, 138)">Selecione uma ou mais das seguintes
                             opções:</h4>
                         <p class="small" style="text-align: center;">(limite de 3)</p>
-                        <div class="Checkbox">
+                        <div class="Checkbox" style="font-size: 22px;">
                             <input type="checkbox" id="motive1" value="Preconceito" onchange="updateMessageField()">
                             <label for="motive1">Preconceito</label><br>
+
+                            <input type="checkbox" id="motive7" value="Racismo" onchange="updateMessageField()">
+                            <label for="motive7">Racismo</label><br>
 
                             <input type="checkbox" id="motive2" value="Toxicidade" onchange="updateMessageField()">
                             <label for="motive2">Toxicidade</label><br>
@@ -152,14 +160,18 @@
                     </div>
                     <div class="form-group">
                         <h5 for="email">Email</h5>
+
                         <input type="email" class="form-control" id="email" placeholder="Enter email" />
+                        <p id="mensagemEmail"></p>
                     </div>
                     <div class="form-group">
                         <h5 for="message">Message</h5>
                         <textarea class="form-control" id="message" rows="3"></textarea>
                     </div>
-                    <button id="submitButton" class="button-gamer mt-3" style="width:90px;"
+                    <button id="submitButton" class="button-gamer mt-3" style="width:90px; display:block;"
                         onclick="enviar()">Enviar</button>
+                        
+                        <img src="img/mt2.svg" style="margin: auto; display: block; width: 450px;" alt="logo">
                 </div>
             </div>
         </div>
@@ -229,11 +241,7 @@
 
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-        crossorigin="anonymous"></script>
-    <script src="reportChannel.js"></script>
-    <script src="main.js"></script>
+    
 </body>
 
 </html>
